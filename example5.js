@@ -9,5 +9,5 @@ birds.forEach( function(bird, index) {
 
 for (let x = 0; x < birds.length ; x++ ) {
     let bird = birds[x]
-    console.log(bird.toUpperCase())
+    console.log(bird.toUpperCase());
 }
